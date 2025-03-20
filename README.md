@@ -5,7 +5,6 @@ A modern calculator built using CustomTkinter.
 ![Python Calculator](calculator.png)
 
 ## Features
-- Scientific mode
 - History log
 - Smooth animations
 
